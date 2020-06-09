@@ -4,7 +4,7 @@ In this repository, I created a chat app written in Python programming language.
 
 ## FEATURES
 - Built with python and sockets.
-- This app is run in the terminal
+- This app is run in the terminal.
 - Signs in up to five users
 
 ## RUNNING THE APPLICATION
