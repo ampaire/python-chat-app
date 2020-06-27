@@ -11,7 +11,7 @@ In this repository, I created a chat app written in Python programming language.
   Since the application is run in the terminal, we do not need so much, Just a few prerequisites.
 
 ### PREREQUISITES
-- Knowledge of how to use the terminal
+- Knowledge on how to use the terminal
 - Python installed(modern editors like VScode have an option of installing python right from the extensions)
 
 And then we are good to go.
