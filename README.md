@@ -16,7 +16,7 @@ In this repository, I created a chat app written in Python programming language.
 
 And then we are good to go.
 
-### STEPS
+### RUNNING THE APPLICATION
 
 1. Open a terminal and Run  ``python server-chat.py``
 ![screenshot](screenshots/server.png)
