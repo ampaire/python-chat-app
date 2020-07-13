@@ -18,7 +18,7 @@ And then we are good to go.
 
 ### RUNNING THE APPLICATION
 
-1. Open a terminal and Run  ``python server-chat.py``
+1. Open a terminal and Run  ``python server-chat.py``.
 ![screenshot](screenshots/server.png)
 2. Open a new terminal and run ``python client-chat.py``. Type your name beginning with #
 ![screenshot](screenshots/client.png)
