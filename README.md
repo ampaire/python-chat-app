@@ -20,9 +20,9 @@ And then we are good to go.
 
 1. Open a terminal and Run  ``python server-chat.py``.
 ![screenshot](screenshots/server.png)
-2. Open a new terminal and run ``python client-chat.py``. Type your name beginning with #
+2. Open a new terminal and run ``python client-chat.py``. Type your name beginning with ``#``.
 ![screenshot](screenshots/client.png)
-3. You can open terminals for up to five users
+3. You can open terminals for up to five users!
 ![screenshot](screenshots/client-two.png)
 4. Each user that is added will be displayed in our first terminal where we run ``server-chat.py``
 ![screenshot](screenshots/users.png)
