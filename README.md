@@ -26,7 +26,7 @@ And then we are good to go.
 ![screenshot](screenshots/client-two.png)
 4. Each user that is added will be displayed in our first terminal where we run ``server-chat.py``.
 ![screenshot](screenshots/users.png)
-5. You can now start sending messages in the formart **@user: message**
+5. You can now start sending messages in the formart **@user: message** .
 ![screenshot](screenshots/messages.png)
 
 ## FUTURE IMPROVEMENTS
