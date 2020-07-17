@@ -30,7 +30,7 @@ And then we are good to go.
 ![screenshot](screenshots/messages.png)
 
 ## FUTURE IMPROVEMENTS
-- Proper user authentication
+- Proper user authentication.
 - Improve validations
 
 ## AUTHOR
