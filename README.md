@@ -31,7 +31,7 @@ And then we are good to go.
 
 ## FUTURE IMPROVEMENTS
 - Proper user authentication.
-- Improve validations
+- Improve validations.
 
 ## AUTHOR
 - Github -- [@ampaire](https://github.com/ampaire)
