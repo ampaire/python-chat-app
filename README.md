@@ -36,5 +36,5 @@ And then we are good to go.
 ## AUTHOR
 - Github -- [@ampaire](https://github.com/ampaire)
 - Twitter -- [@AmpaPhem](https://twitter.com/AmpaPhem)
-- LinkedIn -- [Ampaire Phemia](https://www.linkedin.com/in/phemia)`
+- LinkedIn -- [Ampaire Phemia](https://www.linkedin.com/in/phemia)
 
